@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Umut.
+- 👀 I’m interested in Python, MATLAB, Google Home Assistant
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: umttrkc@gmail.com
